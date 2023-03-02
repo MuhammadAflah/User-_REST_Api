@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "createdOn": "2022-01-01",
+        "gender": "male",
+        "dob": "1990-01-01",
+        "city": "New York",
+        "state": "NY",
+        "pincode": "10001",
+        "modifiedOn": "2022-01-01"
+    },
+{
+        "id": 2,
+        "name": "Jane Smith",
+        "createdOn": "2022-02-05",
+        "gender": "female",
+        "dob": "1985-05-10",
+        "city": "Los Angeles",
+        "state": "CA",
+        "pincode": "90001",
+        "modifiedOn": "2022-02-05"
+    },
+{
+        "id": 3,
+        "name": "Robert Johnson",
+        "createdOn": "2022-03-10",
+        "gender": "male",
+        "dob": "1978-09-20",
+        "city": "Chicago",
+        "state": "IL",
+        "pincode": "60601",
+        "modifiedOn": "2022-03-10"
+    },
+{
+        "id": 4,
+        "name": "Amy Lee",
+        "createdOn": "2022-04-15",
+        "gender": "female",
+        "dob": "1995-12-01",
+        "city": "Houston",
+        "state": "TX",
+        "pincode": "77001",
+        "modifiedOn": "2022-04-15"
+    },
+{
+        "id": 5,
+        "name": "David Brown",
+        "createdOn": "2022-05-20",
+        "gender": "male",
+        "dob": "1982-07-15",
+        "city": "Phoenix",
+        "state": "AZ",
+        "pincode": "85001",
+        "modifiedOn": "2022-05-20"
+    },
+{
+        "id": 6,
+        "name": "Sarah Wilson",
+        "createdOn": "2022-06-25",
+        "gender": "female",
+        "dob": "1998-03-05",
+        "city": "Philadelphia",
+        "state": "PA",
+        "pincode": "19101",
+        "modifiedOn": "2022-06-25"
+    },
+{
+        "id": 7,
+        "name": "James Jackson",
+        "createdOn": "2022-07-30",
+        "gender": "male",
+        "dob": "1976-11-25",
+        "city": "San Antonio",
+        "state": "TX",
+        "pincode": "78201",
+        "modifiedOn": "2022-07-30"
+    },
+{
+        "id": 8,
+        "name": "Emily Davis",
+        "createdOn": "2022-08-04",
+        "gender": "female",
+        "dob": "1989-02-14",
+        "city": "San Diego",
+        "state": "CA",
+        "pincode": "92101",
+        "modifiedOn": "2022-08-04"
+    }
+]
